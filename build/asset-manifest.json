@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d804336.css",
+    "main.js": "/static/js/main.9fa00b88.js",
+    "static/media/bc-01.jpg": "/static/media/bc-01.a57dc465f8e20010ebe8.jpg",
+    "static/media/insta.png": "/static/media/insta.574b38e87c4cdea3edea.png",
+    "static/media/bc-02.jpg": "/static/media/bc-02.6195df266fea5ec82ad6.jpg",
+    "static/media/pngwing.png": "/static/media/pngwing.86fba617f0ea7a62f953.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/logo 2.png": "/static/media/logo 2.13c379d6a805b647bb4a.png",
+    "static/media/lnkd.png": "/static/media/lnkd.fcfac79fade6cef35f38.png",
+    "static/media/party-popper.png": "/static/media/party-popper.fb7682b83c42e705462e.png",
+    "static/media/fb.png": "/static/media/fb.c4624e2a8fc469ad2e18.png",
+    "index.html": "/index.html",
+    "main.2d804336.css.map": "/static/css/main.2d804336.css.map",
+    "main.9fa00b88.js.map": "/static/js/main.9fa00b88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d804336.css",
+    "static/js/main.9fa00b88.js"
+  ]
+}
