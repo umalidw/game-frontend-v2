@@ -98,7 +98,7 @@ resource "aws_s3_bucket_policy" "website" {
   })
 }
 
-# CloudFront Origin Access Control (OAC) - recommended over OAI
+# CloudFront Origin Access Control (OAC) - recommended over OAIIII
 resource "aws_cloudfront_origin_access_control" "oac" {
   name                              = "${var.project_name}-oac"
   description                       = "OAC for ${var.project_name}"
