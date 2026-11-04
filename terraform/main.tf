@@ -28,7 +28,7 @@ provider "aws" {
   }
 }
 
-# S3 Bucket for hosting static website
+# S3 Bucket for hosting static websitee
 resource "aws_s3_bucket" "website" {
   bucket = var.bucket_name
 
